@@ -1,0 +1,18 @@
+
+/*seteo general*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+header nav {
+    background-color: rgb(248, 55, 55);
+    box-shadow: 0 4px 5px -2px gray;
+}
+
+footer{
+    background-color: rgb(248, 55, 55);
+}
